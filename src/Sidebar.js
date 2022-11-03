@@ -71,14 +71,14 @@ function Sidebars() {
 
           <Menu>
             <MenuItem icon={<RiHome4Line />}>Dashboard</MenuItem>
-            <SubMenu defaultOpen label={"Employees"} icon={<RiTeamLine />}>
-              <MenuItem icon={<RiUserFollowLine />}>Active</MenuItem>
-              <MenuItem icon={<RiUserUnfollowLine />}>Ex employee</MenuItem>
+            <SubMenu defaultOpen label={"Professors"} icon={<RiTeamLine />}>
+              <MenuItem icon={<RiUserFollowLine />}>Active </MenuItem>
+              <MenuItem icon={<RiUserUnfollowLine />}>Ex Professors</MenuItem>
               <MenuItem icon={<RiCalendar2Line />}>Probation Period</MenuItem>
             </SubMenu>
             <SubMenu defaultOpen label={"Records"} icon={<RiFolder2Line />}>
-              <MenuItem icon={<RiStackLine />}>External Employee</MenuItem>
-              <MenuItem icon={<RiPlantLine />}>Internships</MenuItem>
+              <MenuItem icon={<RiStackLine />}>Senior Students</MenuItem>
+              <MenuItem icon={<RiPlantLine />}>Junior Students</MenuItem>
             </SubMenu>
           </Menu>
         </main>
