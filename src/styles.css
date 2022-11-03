@@ -10,7 +10,7 @@ a:hover {
   color: #0ab4ff;
 }
 .menu-anchor:hover {
-  background-color: #eaf9ff !important;
+  background-color: pink !important;
 }
 
 .menu-label {
