@@ -62,7 +62,7 @@ function Sidebars() {
                     letterSpacing: "1px"
                   }}
                 >
-                  Hello there!..
+                  YOUR LOGO!..
                 </div>
               </MenuItem>
             )}
