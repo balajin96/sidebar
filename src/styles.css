@@ -7,10 +7,12 @@
 }
 
 a:hover {
-  color: #0ab4ff;
+  color: #0000ff; /* #0ab4ff */
+  font-size: 1.1rem;
 }
 .menu-anchor:hover {
-  background-color: pink !important;
+  background-color: #cafce1 !important;
+  font-weight: bolder;
 }
 
 .menu-label {
@@ -25,6 +27,7 @@ hr {
   margin-bottom: 0px;
   opacity: 0.15;
 }
-a{
-  background-color: #EDF6F1;
+a,
+.fpTHfu {
+  background-color: #72e9a8 !important;
 }
