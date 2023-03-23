@@ -1,4 +1,4 @@
-Created with React-Pro-Sidebar Version: 1.0.0-alpha.5 And
-check out the below link to see the output.
+Created with CodeSandbox & React-Pro-Sidebar Version: 1.0.0-alpha.5 <br/>
+Click the below icon to see the live project with sourceCode 
 
-<a href="https://d6h40z.csb.app/">click this link to view the output</a>
+[![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat-square&logo=codesandbox)](https://codesandbox.io/s/d6h40z)
